@@ -11,7 +11,7 @@ public class Program {
 
 	public static void main(String[] args) throws ParseException {
 		
-		// Solução de exceção com lógica de validação no programa principal (SOLUÇÃO RUIM)
+		// Solução de exceção com lógica de validação no programa principal (SOLUÇÃO MUITO RUIM)
 		
 		Scanner sc = new Scanner(System.in);
 		
